@@ -62,7 +62,7 @@ The server will start on `http://localhost:5000`.
 
 ## HTML Template
 
-The project includes a basic HTML template (`liveliness_template.html`) for testing the API. This template provides a simple interface to interact with the liveliness detection features.
+The project includes a basic HTML template (`liveliness_template.html`) for testing the API with realtime video from camera. This template provides a simple interface to interact with the liveliness detection features.
 
 To use the template:
 1. Open `liveliness_template.html` in a web browser.
