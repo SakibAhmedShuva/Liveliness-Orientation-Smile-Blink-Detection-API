@@ -1,6 +1,6 @@
-# Liveliness Orientation Smile Blink Detection API
+# Liveliness Test: Facial Orientation, Smile, and Blink Detection API
 
-The Liveliness Orientation Smile Blink Detection API is a comprehensive solution for real-time face analysis, leveraging advanced computer vision techniques to enhance security in facial recognition systems.
+This API is a comprehensive solution for real-time face analysis, leveraging advanced computer vision techniques to enhance security in facial recognition systems.
 
 ## Features
 
