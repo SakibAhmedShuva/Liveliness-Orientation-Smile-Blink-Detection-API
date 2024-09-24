@@ -45,12 +45,12 @@ The API returns a JSON object with the following fields:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/liveliness-orientation-smile-blink-detection-api.git
+   git clone https://github.com/SakibAhmedShuva/liveliness-orientation-smile-blink-detection-api.git
    ```
 
 2. Install the required dependencies:
    ```
-   pip install flask pillow opencv-python mediapipe flask-cors
+   pip install -r requirements.txt
    ```
 
 3. Run the Flask application:
@@ -62,8 +62,5 @@ The server will start on `http://localhost:5000`.
 
 ## HTML Template
 
-The project includes a basic HTML template (`liveliness_template.html`) for testing the API with realtime video from camera. This template provides a simple interface to interact with the liveliness detection features.
+The project includes a basic HTML template (`liveliness_template.html`) for testing the API with realtime video from camera. This template provides a simple interface to interact with the liveliness detection features. To use the template open `liveliness_template.html` in a web browser.
 
-To use the template:
-1. Open `liveliness_template.html` in a web browser.
-2. [Instructions for using the template - to be added after implementation]
